@@ -3,9 +3,16 @@ CreateNewPythonScript
 
 the template for new python script
 
+## Summary  
 
-Tool description:
+This is a python script tool set. it includes many small tools to make your programming-life easier.
 
-- **PrefixForAllFiles.py**  
+
+## Tool description:  
+
+- **CreateNewPythonScriptBasic.py**  
+this is a sample template for all the tools. If new tools will be created, it's better make a copy of this file.
+  
+- **PrefixForAllFiles.py**   
 prefix add or delete for file name by wildcard.  
-../PrefixForAllFiles.py -p a -i *.jpg (-d if delete)  
+*usage* ../PrefixForAllFiles.py -p a -i *.jpg (-d if delete)  
