@@ -38,4 +38,4 @@ if __name__  == "__main__":
             pass
         pass
     else:
-        print "--help for more detail."
+        parser.print_help()

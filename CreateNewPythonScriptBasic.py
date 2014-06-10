@@ -17,4 +17,4 @@ if __name__  == "__main__":
         ## TODO,  to be added here
         print "end script"
     else:
-        print "please input --help for more detail"
+        parser.print_help()
