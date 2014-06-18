@@ -13,6 +13,12 @@ This is a python script tool set. it includes many small tools to make your prog
 - **CreateNewPythonScriptBasic.py**  
 this is a sample template for all the tools. If new tools will be created, it's better make a copy of this file.
   
-- **PrefixForAllFiles.py**   
+- **./JPrefixForAllFiles.py**   
 prefix add or delete for file name by wildcard.  
 *usage* ../PrefixForAllFiles.py -p a -i *.jpg (-d if delete)  
+
+- **./JLsFolderSize.py **  
+ls all sub folders size, I use this to check disk size cost.  
+
+-**./JCrossWall.py**  
+start server to cross the wall
