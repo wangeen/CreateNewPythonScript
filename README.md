@@ -17,8 +17,8 @@ this is a sample template for all the tools. If new tools will be created, it's 
 prefix add or delete for file name by wildcard.  
 *usage* ../PrefixForAllFiles.py -p a -i *.jpg (-d if delete)  
 
-- **./JLsFolderSize.py **  
-ls all sub folders size, I use this to check disk size cost.  
+- **./JLsFolderSize.py**   
+ls all sub folders size, I use this to check disk size cost.   
 
--**./JCrossWall.py**  
+- **./JCrossWall.py**  
 start server to cross the wall
